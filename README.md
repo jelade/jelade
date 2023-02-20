@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adejumo Abduljaleel
 - 👀 I’m interested in Data Science and Machine learning 
-- 🌱 I’m currently learning how to understand data and give needed story and solution to problems.
+- 🌱 I understand data and give needed story and solution to problems.
 - 💞️ I’m looking to collaborate on any machine learning project in health, finance and Agriculture
 - 📫 How to reach me adejumoabduljaleel@gmail.com
 
